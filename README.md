@@ -1,4 +1,4 @@
-🚀 DOC VALIDATOR TOOLKIT
+                   🚀 DOC VALIDATOR TOOLKIT
 
 A powerful Python-based document validation toolkit built for Termux & Linux.
 
@@ -42,6 +42,18 @@ pkg install python -y
 Step 3 — Install Required Libraries
 
 python -m pip install rich pyfiglet
+
+---
+
+Step 4
+
+pip install -r requirements.txt
+
+---
+
+Step 5
+
+git clone https://github.com/kazuya112/Doc-validator-tool
 
 ---
 
