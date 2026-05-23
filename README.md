@@ -1,16 +1,38 @@
-                  🚀 DOC VALIDATOR TOOLKIT
+                  
 
-A powerful Python-based document validation toolkit built for Termux & Linux.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=200&section=header&text=🔥DOC%20VALIDATOR%20TOOL🔥&fontSize=40&fontColor=ffffff"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Advanced+OSINT+Tool;Termux+Based+Toolkit;Python+Security+Tool">
+</p>
 
-This tool can validate:
+<p align="center">
+  Fast • Secure • Powerful
+</p>
 
-- Aadhaar Number
-- PAN Card
-- Voter ID
-- Passport Number
-- GST Number
-- Driving Licence Number
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.11-blue">
+<img src="https://img.shields.io/badge/Platform-Termux-green">
+<img src="https://img.shields.io/badge/Status-Active-red">
+</p>
+
+
+
+
+<h2 align="center">✨ Features ✨</h2>
+
+<p align="center">
+✔Aandhar Number Validator   <br>
+✔ PAN Card Validator  <br>
+✔ Voter ID Validator  <br>
+✔ Passport Number Validator  <br>
+✔ GST Number Validator  <br>
+✔ Driving License Validator  <br>
+✔ Fast & Lightweight <br>
+✔ Termux Supported
+</p>
 ---
 
 📸 Features
